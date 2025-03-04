@@ -1,5 +1,3 @@
-# 💫 About Me:
-Tech enthusiast and nerd<br>learning and working on cyber security<br>daily driving linux for almost 8 years
 
 
 # 💻 Tech Stack:
