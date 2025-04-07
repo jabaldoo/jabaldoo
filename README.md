@@ -62,9 +62,9 @@
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Project Alpha](https://github.com/jabaldoo/project-alpha)** | Modern e-commerce platform | React, Node.js, MongoDB |
-| **[Dev Tools CLI](https://github.com/jabaldoo/dev-tools-cli)** | Developer productivity toolkit | Python, Click, Docker |
-| **[Auth Microservice](https://github.com/jabaldoo/auth-microservice)** | JWT-based authentication system | Go, Redis, AWS Lambda |
+| **[Hackintosh Sequoia Efi](https://github.com/jabaldoo/ThinkPad-t470-sequoia)** | MacOS Sequoia running on thinkpad t470 | ASL |
+| **[DDOS script](https://github.com/jabaldoo/DDOS-script-for-educational-purposes)** | Distributed Denial of Service | Python |
+| **[NixOs Config files](https://github.com/jabaldoo/frost-config)** | Personalized NixOS dots | Nix Latte |
 
 </div>
 
