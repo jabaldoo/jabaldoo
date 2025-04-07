@@ -21,13 +21,11 @@ jobs:
           plugin_languages: yes
           plugin_activity: yes
 
-  streak:  # UPDATED STREAK CONFIGURATION
+  streak:
     runs-on: ubuntu-latest
     needs: metrics
     steps:
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@v2  # Use version tag instead of main
-        with:
-          user: jabaldoo
-          theme: dark
-          hide_border: true
+        uses: github-readme-streak-stats.vercel.app?user=jabaldoo  # Direct API call
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
