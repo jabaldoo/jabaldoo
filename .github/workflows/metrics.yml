@@ -1,9 +1,8 @@
-
 name: Profile Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily updates at midnight UTC
-  workflow_dispatch:      # Manual trigger enabled
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [ "main" ]
 
@@ -11,8 +10,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # Critical permission fix
-      actions: read
+      contents: write
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
@@ -20,21 +18,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: jabaldoo
           template: classic
-          base: ""
           plugin_languages: yes
           plugin_activity: yes
-          config_timezone: Europe/London  # Change to your timezone
-          config_display: columns
-          plugin_lines: no               # Disabled temporarily
-          plugin_isocalendar: no         # Disabled temporarily
 
-  streak:
+  streak:  # UPDATED STREAK CONFIGURATION
     runs-on: ubuntu-latest
     needs: metrics
-    permissions:
-      contents: read
     steps:
-      - uses: DenverCoder1/github-readme-streak-stats@main
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v2  # Use version tag instead of main
         with:
           user: jabaldoo
           theme: dark
