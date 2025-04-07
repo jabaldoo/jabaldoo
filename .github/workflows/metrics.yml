@@ -10,7 +10,7 @@ jobs:
   update-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Required for committing changes
+      contents: write
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
@@ -23,27 +23,6 @@ jobs:
           plugin_languages: yes
           plugin_activity: yes
           plugin_isocalendar: yes
-          plugin_habits: yes
           config_timezone: Europe/London
           config_languages_colors: "58A6FF,1F6FEB,3D6117"
           config_display: columns
-
-  update-snake:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v2
-        with:
-          github_user_name: jabaldoo
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push snake to repo
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: main
-          folder: dist
-          clean: false
