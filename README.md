@@ -174,6 +174,7 @@
 <!-- GitHub Skyline 3D Contribution Calendar -->
 <div align="center">
   <h2>🌟 3D Contribution Calendar</h2>
+    [View 3D Model](./jabaldoo-2025-github-skyline.stl)
   <a href="https://skyline.github.com/jabaldoo/2025">
     <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
     <br>
