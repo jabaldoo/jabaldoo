@@ -174,14 +174,25 @@
 <!-- GitHub Skyline 3D Contribution Calendar -->
 <div align="center">
   <h2>🌟 3D Contribution Calendar</h2>
-    [View 3D Model](./jabaldoo-2025-github-skyline.stl)
-  <a href="https://skyline.github.com/jabaldoo/2025">
+  
+  <!-- Official GitHub Skyline Link -->
+  <a href="https://skyline.github.com/jabaldoo/2023" target="_blank">
     <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
     <br>
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px">
     <br>
     <b>Click to see my GitHub Skyline!</b>
   </a>
+
+  <!-- STL File Section -->
+  <details>
+    <summary><h3>3D-Printable Contribution Model</h3></summary>
+    <a href="./jabaldoo-2025-github-skyline.stl">
+      <img src="https://img.shields.io/badge/Download_STL-9D8CFF?style=for-the-badge&logo=3ds-max&logoColor=white" alt="Download STL">
+    </a>
+    <p>View in GitHub's built-in 3D viewer:</p>
+    [![3D Model](./jabaldoo-2025-github-skyline.stl)](./jabaldoo-2025-github-skyline.stl)
+  </details>
 </div>
 
 <!-- Footer with Animation -->
