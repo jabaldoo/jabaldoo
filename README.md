@@ -171,16 +171,30 @@
   </picture>
 </div>
 
-<!-- NEW: 2D Animated Contribution Visualization -->
+<!-- NEW: Animated Contribution Calendar -->
 <div align="center">
-  <h2>✨ Contribution Timeline</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabaldoo&bg_color=0D1117&color=9D8CFF&line=9D8CFF&point=FFFFFF&area=true&hide_border=true&area_color=9D8CFF&custom_title=My%20Contribution%20Timeline" width="98%">
+  <h2>✨ Contribution Calendar</h2>
   
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.svg" width="100%" height="150" style="filter: hue-rotate(270deg);">
-  </p>
+  <!-- Animated Calendar Graph -->
+  <a href="https://github.com/jabaldoo">
+    <img src="https://github-readme-contribution-stats.vercel.app/api/?username=jabaldoo&theme=purple&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=9D8CFF&text_color=FFFFFF&icon_color=9D8CFF&border_color=0D1117&show_owner=true" alt="Contribution Calendar" width="95%">
+  </a>
   
-  <p><i>Visualizing my coding journey through animated contributions!</i></p>
+  <!-- Animated Heatmap -->
+  <img src="https://github-contribution-graph.ez4o.com/?username=jabaldoo&theme=purple&animation=grow&area=true&hide_border=true" width="95%">
+  
+  <!-- Animated Pulse Effect -->
+  <div style="margin-top:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pulse.svg" alt="Pulse" style="filter: hue-rotate(250deg);" width="95%">
+  </div>
+  
+  <!-- Additional Animated Stats -->
+  <div style="margin-top:20px; display:flex; justify-content:center; gap:15px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jabaldoo&theme=midnight_purple" width="68%">
+    <img src="https://streak-stats.demolab.com/?user=jabaldoo&theme=midnight-purple&currStreakNum=9D8CFF&ring=9D8CFF&fire=9D8CFF&sideNums=9D8CFF&currStreakLabel=9D8CFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="28%">
+  </div>
+  
+  <p><i>Watch my coding journey unfold through this animated contribution calendar!</i></p>
 </div>
 
 <!-- Footer with Animation -->
