@@ -1,203 +1,159 @@
-<!-- Background GIF Header with Animation -->
+<!-- Glitched Cyberpunk Header with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D8CFF&height=200&section=header&text=jabaldoo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=jabaldoo&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=NEURAL.INTERFACE.ACTIVE&descSize=15&descAlignY=50" width="100%"/>
 </div>
 
-<!-- Dynamic Animated Header -->
+<!-- Dystopian Cyberpunk Animated Header -->
 <div align="center">
   <a href="https://github.com/jabaldoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=9D8CFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Open-Source+Contributor;Continuous+Learner" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=SYS:OVERRIDE_SUCCESSFUL;ACCESSING_NEURAL_NETWORK;FULL-STACK_NETRUNNER;MAINFRAME_INFILTRATOR;SYSTEM.STATUS:OPERATIONAL" alt="Cyberpunk Typing Animation">
   </a>
 </div>
 
-<!-- Profile Metrics with Animated Counters -->
+<!-- Glitched Profile Metrics -->
 <p align="center">
   <a href="https://github.com/jabaldoo">
-    <img src="https://komarev.com/ghpvc/?username=jabaldoo&color=9D8CFF&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=jabaldoo&color=8A2BE2&label=NEURAL.SCANS&style=for-the-badge" alt="Neural Scans">
   </a>
   <a href="https://github.com/jabaldoo?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-15+-9D8CFF?style=for-the-badge&logo=github&logoColor=white" alt="Total Repositories">
+    <img src="https://img.shields.io/badge/DATABANKS-15+-FF00FF?style=for-the-badge&logo=github&logoColor=white" alt="Databanks">
   </a>
   <a href="https://gist.github.com/jabaldoo">
-    <img src="https://img.shields.io/badge/Gists-10+-9D8CFF?style=for-the-badge&logo=github&logoColor=white" alt="Code Gists">
+    <img src="https://img.shields.io/badge/CODE.FRAGMENTS-10+-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Code Fragments">
   </a>
 </p>
 
-<!-- Animated Line -->
+<!-- Glitch Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
-<!-- GitHub Analytics with Enhanced Visualizations -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- Neural Network Activity with Cyberpunk Visualizations -->
+<h2 align="center">⚡ Activity </h2>
 <div align="center">
   <a href="https://github.com/jabaldoo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jabaldoo&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&ring_color=9D8CFF&title_color=9D8CFF&icon_color=9D8CFF" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jabaldoo&theme=midnight-purple&hide_border=true&background=0D1117&ring=9D8CFF&fire=9D8CFF&currStreakLabel=9D8CFF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jabaldoo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D001A&ring_color=FF00FF&title_color=FF00FF&icon_color=8A2BE2&text_color=9D8CFF" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jabaldoo&theme=radical&hide_border=true&background=0D001A&ring=FF00FF&fire=8A2BE2&currStreakLabel=FF00FF&stroke=8A2BE2" />
   </a>
 </div>
 
+<!-- Cyberpunk Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabaldoo&bg_color=0D1117&color=9D8CFF&line=9D8CFF&point=FFFFFF&area=true&hide_border=true" width="98%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabaldoo&bg_color=0D001A&color=FF00FF&line=8A2BE2&point=FF00FF&area=true&hide_border=true" width="98%">
 </div>
 
-<!-- Most Used Languages Widget -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabaldoo&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=9D8CFF" width="400px">
+<!-- Holographic Background with Tech Languages -->
+<div align="center" style="background: url('https://i.imgur.com/QXVYXn5.gif'); background-size: cover; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabaldoo&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D001A&title_color=FF00FF" width="400px">
 </div>
 
-<!-- Animated Line -->
+<!-- Animated Neon Line -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20px">
 </p>
 
-<!-- Technical Skills with Animation -->
-<h2 align="center">🚀 Technical Arsenal</h2>
+<!-- Cybernetic Enhancements Tech Arsenal -->
+<h2 align="center">🧠 Tech arsenal </h2>
 <div align="center">
   <details open>
-    <summary><h3>Frontend</h3></summary>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <summary><h3> Tools </h3></summary>
+    <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=282828&color=8A2BE2" alt="Neovim" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=282828&color=8A2BE2" alt="Linux" />
+    <img src="https://img.shields.io/badge/-Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white&labelColor=282828&color=8A2BE2" alt="Nix" />
+    <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=282828&color=8A2BE2" alt="Lua" />
+    <img src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=282828&color=8A2BE2" alt="Arch Linux" />
   </details>
   
   <details open>
-    <summary><h3>Backend</h3></summary>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <summary><h3> Programming languages</h3></summary>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=282828&color=FF00FF" alt="React" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=282828&color=FF00FF" alt="Python" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828&color=FF00FF" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=282828&color=FF00FF" alt="Visual Studio" />
   </details>
   
   <details open>
-    <summary><h3>DevOps</h3></summary>
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <summary><h3> Software </h3></summary>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=282828&color=9D8CFF" alt="Docker" />
+    <img src="https://img.shields.io/badge/-BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=282828&color=9D8CFF" alt="BASH" />
+    <img src="https://img.shields.io/badge/-i3wm-6E25FF?style=for-the-badge&logo=i3&logoColor=white&labelColor=282828&color=9D8CFF" alt="i3wm" />
+    <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=282828&color=9D8CFF" alt="Vim" />
   </details>
 </div>
 
-<!-- Animated Line -->
+<!-- Animated Digital Corruption Line -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20px">
 </p>
 
-<!-- Featured Projects with Animation -->
-<h2 align="center">🏗️ Featured Projects</h2>
-<div align="center">
+<!-- Featured Projects with Holographic Effect -->
+<h2 align="center">💾 Projects so far</h2>
+<div align="center" style="background: url('https://i.imgur.com/waxVImv.png'); background-size: cover; padding: 20px; border-radius: 10px; margin: 20px 0;">
   <table>
     <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
+      <th>PROJECT ID</th>
+      <th>CLASSIFICATION</th>
+      <th>TECH STACK</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/jabaldoo/ThinkPad-t470-sequoia"><b>Hackintosh Sequoia Efi</b></a></td>
-      <td>MacOS Sequoia running on ThinkPad T470</td>
-      <td>ASL</td>
+      <td><a href="https://github.com/jabaldoo/ThinkPad-t470-sequoia"><b>HACKINTOSH</b></a></td>
+      <td> MacOS Sequoia</td>
+      <td>ASL | Hackintosh</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jabaldoo/DDOS-script-for-educational-purposes"><b>DDOS Script</b></a></td>
-      <td>Distributed Denial of Service (Educational)</td>
-      <td>Python</td>
+      <td><a href="https://github.com/jabaldoo/DDOS-script-for-educational-purposes"><b>BLACKICE::PROTOCOL</b></a></td>
+      <td>Distributed Network Disruption (Educational)</td>
+      <td>Python | Network</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jabaldoo/frost-config"><b>NixOS Config files</b></a></td>
-      <td>Personalized NixOS dotfiles</td>
-      <td>Nix, Latte</td>
+      <td><a href="https://github.com/jabaldoo/frost-config"><b>FROST::MAINFRAME</b></a></td>
+      <td>NixOS Dots </td>
+      <td>Nix | Latte</td>
     </tr>
   </table>
 </div>
 
-<!-- Animated Line -->
+<!-- Animated Digital Corruption Line -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20px">
 </p>
 
-<!-- GitHub Trophies Widget -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jabaldoo&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%">
-</div>
-
-<!-- Animated Line -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- Connect Section with Hover Animation -->
-<h2 align="center">🌐 Connect With Me</h2>
+<!-- Neural Connection Network -->
+<h2 align="center">🌐 Connect </h2>
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9D8CFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/MichalMatera2" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-9D8CFF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-8A2BE2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:michalmatera9@gmail.com">
     <img src="https://img.shields.io/badge/Email-9D8CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<!-- Apple Music Widget -->
-<h2 align="center">🎵 What i'm listening to</h2>
+<!-- Cyberpunk Quote -->
 <div align="center">
-  <a href="https://music.apple.com/profile/YOUR_APPLE_MUSIC_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Apple%20Music-9D8CFF?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music" />
-  </a>
-  <p>
-    <img src="https://user-images.githubusercontent.com/74038190/212301166-53fdfce3-0309-4a78-a367-763e3d7f1ea8.gif" width="400">
-  </p>
-  <p><i>Connect with me on Apple Music to see what I'm listening to!</i></p>
+  <blockquote style="border-left: 4px solid #FF00FF; padding-left: 15px; margin: 20px 0; color: #9D8CFF;">
+    <p>"The code is the ultimate truth in a world of digital deception. Trust only what you can compile yourself."</p>
+  </blockquote>
 </div>
 
-<!-- Animated Contribution Snake -->
+<!-- Contribution Calendar with Cyberpunk Theme -->
 <div align="center">
-  <h2>📈 Contribution Activity</h2>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/jabaldoo/jabaldoo/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/jabaldoo/jabaldoo/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Contribution Snake"
-      src="https://raw.githubusercontent.com/jabaldoo/jabaldoo/output/github-contribution-grid-snake-dark.svg"
-      width="100%"
-    />
-  </picture>
-</div>
-
-<!-- NEW: Animated Contribution Calendar -->
-<div align="center">
-  <h2>✨ Contribution Calendar</h2>
+  <h2>⚡ Activity</h2>
   
   <!-- Animated Calendar Graph -->
-  <a href="https://github.com/jabaldoo">
-    <img src="https://github-readme-contribution-stats.vercel.app/api/?username=jabaldoo&theme=purple&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=9D8CFF&text_color=FFFFFF&icon_color=9D8CFF&border_color=0D1117&show_owner=true" alt="Contribution Calendar" width="95%">
-  </a>
-  
-  <!-- Animated Heatmap -->
-  <img src="https://github-contribution-graph.ez4o.com/?username=jabaldoo&theme=purple&animation=grow&area=true&hide_border=true" width="95%">
-  
-  <!-- Animated Pulse Effect -->
-  <div style="margin-top:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pulse.svg" alt="Pulse" style="filter: hue-rotate(250deg);" width="95%">
+  <div style="background: url('https://i.imgur.com/waxVImv.png'); background-size: cover; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <a href="https://github.com/jabaldoo">
+      <img src="https://github-readme-contribution-stats.vercel.app/api/?username=jabaldoo&theme=radical&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0D001A&title_color=FF00FF&text_color=9D8CFF&icon_color=8A2BE2&border_color=0D001A&show_owner=true" alt="Contribution Calendar" width="95%">
+    </a>
   </div>
   
-  <!-- Additional Animated Stats -->
-  <div style="margin-top:20px; display:flex; justify-content:center; gap:15px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jabaldoo&theme=midnight_purple" width="68%">
-    <img src="https://streak-stats.demolab.com/?user=jabaldoo&theme=midnight-purple&currStreakNum=9D8CFF&ring=9D8CFF&fire=9D8CFF&sideNums=9D8CFF&currStreakLabel=9D8CFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="28%">
-  </div>
-  
-  <p><i>Watch my coding journey unfold through this animated contribution calendar!</i></p>
+  <p><i>TRACKING.NEURAL.NETWORK.ACTIVITY.PATTERNS</i></p>
 </div>
 
-<!-- Footer with Animation -->
+<!-- Cyberpunk Footer with Glitch Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D8CFF&height=150&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer&text=CONNECTION.TERMINATED&fontSize=30&fontColor=FF00FF&animation=twinkling&fontAlignY=80" width="100%"/>
 </div>
