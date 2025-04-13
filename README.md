@@ -1,4 +1,3 @@
-# <div align="center">Michał Matera</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=170&section=header&text=jabaldoo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Tech%20Enthusiast&descSize=15&descAlignY=50" width="100%"/>
