@@ -48,7 +48,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 374b of code in 1 edited file across 2 commits over last 1 day</small>
+                <small>estimation from 4.65kb of code in 4 edited files across 4 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -66,7 +66,7 @@
                                 Nix
                             </div>
                             <small>
-                                <div>374 bytes</div>
+                                <div>4.65 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
