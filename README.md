@@ -1,6 +1,6 @@
-![Banner](https://github.com/jabaldoo/jabaldoo/assets/bannerr.png)
+![Banner](https://github.com/jabaldoo/jabaldoo/blob/main/assets/bannerr.png)
 
-### Hi there!  <img src="https://slackmojis.com/emojis/33712-bamboo" width="25"/>
+### 🌲Hi there!🌲
 
 
 
@@ -12,4 +12,4 @@ Outside of hacking school wifi you'll fine me coding some BS apps
 
 ####Fun Fact:
 
-*I love coffee 
+* I love coffee 
