@@ -21,8 +21,8 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="650.6995875414875" height="8" fill="#D08CF2"/>
-                    <rect mask="url(#languages-bar)" x="650.6995875414875" y="0" width="269.30041245851254" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="513.2785158644652" height="8" fill="#D08CF2"/>
+                    <rect mask="url(#languages-bar)" x="513.2785158644652" y="0" width="406.7214841355347" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,7 +35,7 @@
                             </div>
                             <small>
                                 <div>3.23 MB</div>
-                                <div>70.73%</div>
+                                <div>55.79%</div>
                             </small>
                         </div>
                     </section>
@@ -48,8 +48,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>1.34 MB</div>
-                                <div>29.27%</div>
+                                <div>2.56 MB</div>
+                                <div>44.21%</div>
                             </small>
                         </div>
                     </section>
