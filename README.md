@@ -12,7 +12,6 @@ I'm a **Tech Enthusiast** and **Aspiring Cybersecurity Researcher** based in Pol
 
 ### 🕵️ What I'm working on
 - 🛡️ Learning the ropes of **Penetration Testing** and **Network Security**.
-- 🐍 Improving my **Python** skills for automation and exploit development.
 - 🐧 Mastering the **Linux** command line.
 - 💻 Developing open-source tools and experimental applications.
 
