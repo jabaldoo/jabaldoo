@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/bannerr.png" alt="Jabaldoo Banner">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity Badge">
@@ -19,9 +17,9 @@ I'm a **Tech Enthusiast** and **Aspiring Cybersecurity Researcher** based in Pol
 - 💻 Developing open-source tools and experimental applications.
 
 ### 🛠️ Tech Stack & Tools
-- **OS:** Linux (Arch/Debian), macOS, Windows
-- **Languages:** Python, JavaScript (for those "BS apps"), Bash
-- **Sec Tools:** Nmap, Burp Suite, Wireshark, Metasploit (Learning)
+- **OS:** Linux (Arch/gentoo), macOS, Windows
+- **Languages:** Python, JavaScript, Kotlin
+  
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -30,9 +28,6 @@ I'm a **Tech Enthusiast** and **Aspiring Cybersecurity Researcher** based in Pol
 
 ---
 
-### ☕ Fun Fact
-- I love coffee.
-- I'm the person you call when the Wi-Fi acts up (or when you want to know *why* it's acting up).
 
 ### 📫 Connect with me
 [https://www.linkedin.com/in/michal-matera-0a0a30334/]
